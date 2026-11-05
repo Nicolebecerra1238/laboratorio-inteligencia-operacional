@@ -1,0 +1,501 @@
+﻿id_demanda;data_referencia;data_abertura;data_prazo_simulado;data_conclusao;area_ficticia;assunto_ficticio;complexidade_ficticia;prazo_treino_dias;status;situacao_prazo_simulada;dias_atraso_em_aberto;tempo_resolucao_dias
+LAB-00001;2026-10-31;2026-10-15;2026-10-20;;Validacao;Acompanhamento;Media;5;Aberto;Atrasado;11;
+LAB-00002;2026-10-31;2026-10-19;2026-10-24;2026-10-20;Documentacao;Analise documental;Media;5;Concluido;Concluido no prazo;0;1
+LAB-00003;2026-10-31;2026-08-15;2026-08-18;2026-08-23;Validacao;Correcao;Baixa;3;Concluido;Concluido fora do prazo;0;8
+LAB-00004;2026-10-31;2026-09-18;2026-09-23;2026-09-18;Validacao;Analise documental;Media;5;Concluido;Concluido no prazo;0;0
+LAB-00005;2026-10-31;2026-10-11;2026-10-14;2026-10-11;Validacao;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00006;2026-10-31;2026-09-06;2026-09-15;2026-09-15;Atendimento Digital;Analise documental;Alta;9;Concluido;Concluido no prazo;0;9
+LAB-00007;2026-10-31;2026-08-08;2026-08-11;2026-08-08;Atendimento Digital;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00008;2026-10-31;2026-10-15;2026-10-18;2026-10-16;Operacoes Gerais;Duvida;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00009;2026-10-31;2026-10-06;2026-10-11;2026-10-06;Suporte Especializado;Analise documental;Media;5;Concluido;Concluido no prazo;0;0
+LAB-00010;2026-10-31;2026-10-26;2026-10-31;;Atendimento Digital;Correcao;Media;5;Aberto;Vence hoje;0;
+LAB-00011;2026-10-31;2026-09-20;2026-09-29;2026-09-23;Suporte Especializado;Correcao;Alta;9;Concluido;Concluido no prazo;0;3
+LAB-00012;2026-10-31;2026-08-10;2026-08-15;;Validacao;Acompanhamento;Media;5;Aberto;Atrasado;77;
+LAB-00013;2026-10-31;2026-08-02;2026-08-05;2026-08-04;Atendimento Digital;Correcao;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00014;2026-10-31;2026-09-02;2026-09-05;2026-09-05;Documentacao;Duvida;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00015;2026-10-31;2026-10-13;2026-10-22;2026-10-25;Suporte Especializado;Analise documental;Alta;9;Concluido;Concluido fora do prazo;0;12
+LAB-00016;2026-10-31;2026-08-16;2026-08-19;;Documentacao;Solicitacao;Baixa;3;Aberto;Atrasado;73;
+LAB-00017;2026-10-31;2026-08-29;2026-09-01;2026-08-31;Documentacao;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00018;2026-10-31;2026-08-16;2026-08-21;;Atendimento Digital;Analise documental;Media;5;Aberto;Atrasado;71;
+LAB-00019;2026-10-31;2026-09-22;2026-09-25;2026-09-22;Suporte Especializado;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00020;2026-10-31;2026-09-20;2026-09-23;2026-09-20;Validacao;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00021;2026-10-31;2026-10-13;2026-10-18;2026-10-19;Documentacao;Analise documental;Media;5;Concluido;Concluido fora do prazo;0;6
+LAB-00022;2026-10-31;2026-08-26;2026-08-29;2026-08-26;Operacoes Gerais;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00023;2026-10-31;2026-08-25;2026-09-03;2026-09-04;Suporte Especializado;Solicitacao;Alta;9;Concluido;Concluido fora do prazo;0;10
+LAB-00024;2026-10-31;2026-10-26;2026-11-04;2026-10-31;Atendimento Digital;Correcao;Alta;9;Concluido;Concluido no prazo;0;5
+LAB-00025;2026-10-31;2026-08-17;2026-08-22;2026-08-23;Validacao;Solicitacao;Media;5;Concluido;Concluido fora do prazo;0;6
+LAB-00026;2026-10-31;2026-10-08;2026-10-11;2026-10-08;Documentacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00027;2026-10-31;2026-10-08;2026-10-11;2026-10-09;Documentacao;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00028;2026-10-31;2026-09-05;2026-09-08;2026-09-13;Atendimento Digital;Acompanhamento;Baixa;3;Concluido;Concluido fora do prazo;0;8
+LAB-00029;2026-10-31;2026-08-13;2026-08-18;2026-08-16;Validacao;Analise documental;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00030;2026-10-31;2026-08-11;2026-08-14;2026-08-13;Validacao;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00031;2026-10-31;2026-09-28;2026-10-01;2026-09-29;Validacao;Correcao;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00032;2026-10-31;2026-08-16;2026-08-25;2026-08-29;Validacao;Correcao;Alta;9;Concluido;Concluido fora do prazo;0;13
+LAB-00033;2026-10-31;2026-10-10;2026-10-13;;Suporte Especializado;Solicitacao;Baixa;3;Aberto;Atrasado;18;
+LAB-00034;2026-10-31;2026-08-18;2026-08-21;;Suporte Especializado;Acompanhamento;Baixa;3;Aberto;Atrasado;71;
+LAB-00035;2026-10-31;2026-09-10;2026-09-13;;Validacao;Correcao;Baixa;3;Aberto;Atrasado;48;
+LAB-00036;2026-10-31;2026-10-16;2026-10-21;2026-10-24;Atendimento Digital;Duvida;Media;5;Concluido;Concluido fora do prazo;0;8
+LAB-00037;2026-10-31;2026-10-08;2026-10-13;2026-10-10;Atendimento Digital;Correcao;Media;5;Concluido;Concluido no prazo;0;2
+LAB-00038;2026-10-31;2026-10-21;2026-10-30;2026-10-27;Validacao;Acompanhamento;Alta;9;Concluido;Concluido no prazo;0;6
+LAB-00039;2026-10-31;2026-10-12;2026-10-17;2026-10-17;Validacao;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00040;2026-10-31;2026-09-08;2026-09-17;2026-09-18;Suporte Especializado;Analise documental;Alta;9;Concluido;Concluido fora do prazo;0;10
+LAB-00041;2026-10-31;2026-10-04;2026-10-07;;Operacoes Gerais;Acompanhamento;Baixa;3;Aberto;Atrasado;24;
+LAB-00042;2026-10-31;2026-08-28;2026-08-31;2026-08-28;Atendimento Digital;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00043;2026-10-31;2026-10-12;2026-10-17;;Atendimento Digital;Analise documental;Media;5;Aberto;Atrasado;14;
+LAB-00044;2026-10-31;2026-10-14;2026-10-19;;Validacao;Correcao;Media;5;Aberto;Atrasado;12;
+LAB-00045;2026-10-31;2026-09-15;2026-09-20;2026-09-24;Documentacao;Acompanhamento;Media;5;Concluido;Concluido fora do prazo;0;9
+LAB-00046;2026-10-31;2026-08-03;2026-08-08;2026-08-06;Suporte Especializado;Analise documental;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00047;2026-10-31;2026-10-01;2026-10-06;;Documentacao;Analise documental;Media;5;Aberto;Atrasado;25;
+LAB-00048;2026-10-31;2026-08-03;2026-08-08;;Documentacao;Solicitacao;Media;5;Aberto;Atrasado;84;
+LAB-00049;2026-10-31;2026-08-30;2026-09-02;2026-08-30;Atendimento Digital;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00050;2026-10-31;2026-09-20;2026-09-25;;Atendimento Digital;Solicitacao;Media;5;Aberto;Atrasado;36;
+LAB-00051;2026-10-31;2026-09-10;2026-09-13;2026-09-10;Operacoes Gerais;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00052;2026-10-31;2026-08-17;2026-08-20;2026-08-17;Atendimento Digital;Duvida;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00053;2026-10-31;2026-08-15;2026-08-18;;Validacao;Solicitacao;Baixa;3;Aberto;Atrasado;74;
+LAB-00054;2026-10-31;2026-10-21;2026-10-24;2026-10-21;Atendimento Digital;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00055;2026-10-31;2026-08-13;2026-08-16;;Validacao;Analise documental;Baixa;3;Aberto;Atrasado;76;
+LAB-00056;2026-10-31;2026-09-18;2026-09-27;2026-09-29;Documentacao;Solicitacao;Alta;9;Concluido;Concluido fora do prazo;0;11
+LAB-00057;2026-10-31;2026-10-10;2026-10-15;;Atendimento Digital;Solicitacao;Media;5;Aberto;Atrasado;16;
+LAB-00058;2026-10-31;2026-09-10;2026-09-15;;Atendimento Digital;Duvida;Media;5;Aberto;Atrasado;46;
+LAB-00059;2026-10-31;2026-10-28;2026-11-02;;Atendimento Digital;Solicitacao;Media;5;Aberto;No prazo;0;
+LAB-00060;2026-10-31;2026-08-13;2026-08-18;2026-08-17;Operacoes Gerais;Correcao;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00061;2026-10-31;2026-10-03;2026-10-08;2026-10-05;Atendimento Digital;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;2
+LAB-00062;2026-10-31;2026-10-28;2026-11-02;;Suporte Especializado;Correcao;Media;5;Aberto;No prazo;0;
+LAB-00063;2026-10-31;2026-08-23;2026-09-01;2026-08-30;Suporte Especializado;Analise documental;Alta;9;Concluido;Concluido no prazo;0;7
+LAB-00064;2026-10-31;2026-10-22;2026-10-27;2026-10-27;Validacao;Duvida;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00065;2026-10-31;2026-10-26;2026-10-29;;Validacao;Solicitacao;Baixa;3;Aberto;Atrasado;2;
+LAB-00066;2026-10-31;2026-09-11;2026-09-14;2026-09-11;Atendimento Digital;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00067;2026-10-31;2026-09-22;2026-09-27;;Validacao;Solicitacao;Media;5;Aberto;Atrasado;34;
+LAB-00068;2026-10-31;2026-09-28;2026-10-07;;Documentacao;Analise documental;Alta;9;Aberto;Atrasado;24;
+LAB-00069;2026-10-31;2026-09-02;2026-09-05;2026-09-03;Documentacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00070;2026-10-31;2026-08-17;2026-08-20;2026-08-20;Validacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00071;2026-10-31;2026-08-12;2026-08-21;2026-08-24;Atendimento Digital;Acompanhamento;Alta;9;Concluido;Concluido fora do prazo;0;12
+LAB-00072;2026-10-31;2026-08-31;2026-09-03;;Atendimento Digital;Solicitacao;Baixa;3;Aberto;Atrasado;58;
+LAB-00073;2026-10-31;2026-08-10;2026-08-13;;Suporte Especializado;Acompanhamento;Baixa;3;Aberto;Atrasado;79;
+LAB-00074;2026-10-31;2026-10-31;2026-11-03;;Atendimento Digital;Solicitacao;Baixa;3;Aberto;No prazo;0;
+LAB-00075;2026-10-31;2026-08-18;2026-08-23;2026-08-19;Documentacao;Duvida;Media;5;Concluido;Concluido no prazo;0;1
+LAB-00076;2026-10-31;2026-09-19;2026-09-22;2026-09-21;Suporte Especializado;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00077;2026-10-31;2026-08-20;2026-08-25;2026-08-25;Documentacao;Solicitacao;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00078;2026-10-31;2026-08-25;2026-09-03;2026-09-02;Atendimento Digital;Solicitacao;Alta;9;Concluido;Concluido no prazo;0;8
+LAB-00079;2026-10-31;2026-08-20;2026-08-25;2026-08-20;Atendimento Digital;Correcao;Media;5;Concluido;Concluido no prazo;0;0
+LAB-00080;2026-10-31;2026-10-03;2026-10-08;2026-10-04;Documentacao;Correcao;Media;5;Concluido;Concluido no prazo;0;1
+LAB-00081;2026-10-31;2026-08-21;2026-08-24;2026-08-21;Suporte Especializado;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00082;2026-10-31;2026-09-19;2026-09-22;;Validacao;Correcao;Baixa;3;Aberto;Atrasado;39;
+LAB-00083;2026-10-31;2026-10-16;2026-10-25;2026-10-23;Atendimento Digital;Correcao;Alta;9;Concluido;Concluido no prazo;0;7
+LAB-00084;2026-10-31;2026-09-15;2026-09-20;;Operacoes Gerais;Solicitacao;Media;5;Aberto;Atrasado;41;
+LAB-00085;2026-10-31;2026-08-15;2026-08-18;2026-08-15;Documentacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00086;2026-10-31;2026-10-10;2026-10-13;2026-10-12;Atendimento Digital;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00087;2026-10-31;2026-09-18;2026-09-23;2026-09-21;Suporte Especializado;Analise documental;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00088;2026-10-31;2026-10-12;2026-10-17;2026-10-18;Atendimento Digital;Acompanhamento;Media;5;Concluido;Concluido fora do prazo;0;6
+LAB-00089;2026-10-31;2026-09-21;2026-09-30;2026-10-09;Validacao;Acompanhamento;Alta;9;Concluido;Concluido fora do prazo;0;18
+LAB-00090;2026-10-31;2026-09-07;2026-09-10;;Suporte Especializado;Acompanhamento;Baixa;3;Aberto;Atrasado;51;
+LAB-00091;2026-10-31;2026-08-29;2026-09-07;2026-09-05;Documentacao;Acompanhamento;Alta;9;Concluido;Concluido no prazo;0;7
+LAB-00092;2026-10-31;2026-10-16;2026-10-19;2026-10-16;Validacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00093;2026-10-31;2026-10-10;2026-10-13;2026-10-12;Atendimento Digital;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00094;2026-10-31;2026-09-29;2026-10-04;2026-09-29;Documentacao;Solicitacao;Media;5;Concluido;Concluido no prazo;0;0
+LAB-00095;2026-10-31;2026-10-05;2026-10-08;;Atendimento Digital;Solicitacao;Baixa;3;Aberto;Atrasado;23;
+LAB-00096;2026-10-31;2026-10-30;2026-11-02;;Operacoes Gerais;Solicitacao;Baixa;3;Aberto;No prazo;0;
+LAB-00097;2026-10-31;2026-08-30;2026-09-04;2026-09-04;Documentacao;Correcao;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00098;2026-10-31;2026-10-10;2026-10-13;;Atendimento Digital;Correcao;Baixa;3;Aberto;Atrasado;18;
+LAB-00099;2026-10-31;2026-10-04;2026-10-13;;Suporte Especializado;Solicitacao;Alta;9;Aberto;Atrasado;18;
+LAB-00100;2026-10-31;2026-09-23;2026-09-26;2026-09-27;Atendimento Digital;Acompanhamento;Baixa;3;Concluido;Concluido fora do prazo;0;4
+LAB-00101;2026-10-31;2026-08-08;2026-08-13;2026-08-10;Documentacao;Correcao;Media;5;Concluido;Concluido no prazo;0;2
+LAB-00102;2026-10-31;2026-08-04;2026-08-07;;Operacoes Gerais;Correcao;Baixa;3;Aberto;Atrasado;85;
+LAB-00103;2026-10-31;2026-09-27;2026-09-30;2026-09-27;Validacao;Duvida;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00104;2026-10-31;2026-10-18;2026-10-21;2026-10-18;Atendimento Digital;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00105;2026-10-31;2026-10-21;2026-10-24;2026-10-28;Operacoes Gerais;Analise documental;Baixa;3;Concluido;Concluido fora do prazo;0;7
+LAB-00106;2026-10-31;2026-09-17;2026-09-20;;Suporte Especializado;Acompanhamento;Baixa;3;Aberto;Atrasado;41;
+LAB-00107;2026-10-31;2026-10-14;2026-10-19;2026-10-18;Documentacao;Correcao;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00108;2026-10-31;2026-09-06;2026-09-09;2026-09-09;Suporte Especializado;Correcao;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00109;2026-10-31;2026-08-25;2026-09-03;2026-09-01;Atendimento Digital;Acompanhamento;Alta;9;Concluido;Concluido no prazo;0;7
+LAB-00110;2026-10-31;2026-10-01;2026-10-06;;Atendimento Digital;Solicitacao;Media;5;Aberto;Atrasado;25;
+LAB-00111;2026-10-31;2026-10-29;2026-11-07;;Validacao;Correcao;Alta;9;Aberto;No prazo;0;
+LAB-00112;2026-10-31;2026-09-21;2026-09-26;2026-09-27;Atendimento Digital;Correcao;Media;5;Concluido;Concluido fora do prazo;0;6
+LAB-00113;2026-10-31;2026-09-30;2026-10-05;2026-09-30;Validacao;Solicitacao;Media;5;Concluido;Concluido no prazo;0;0
+LAB-00114;2026-10-31;2026-08-23;2026-09-01;;Validacao;Duvida;Alta;9;Aberto;Atrasado;60;
+LAB-00115;2026-10-31;2026-10-03;2026-10-08;;Suporte Especializado;Solicitacao;Media;5;Aberto;Atrasado;23;
+LAB-00116;2026-10-31;2026-10-23;2026-11-01;;Validacao;Solicitacao;Alta;9;Aberto;Vence amanha;0;
+LAB-00117;2026-10-31;2026-09-30;2026-10-03;;Atendimento Digital;Correcao;Baixa;3;Aberto;Atrasado;28;
+LAB-00118;2026-10-31;2026-08-31;2026-09-03;2026-08-31;Suporte Especializado;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00119;2026-10-31;2026-08-09;2026-08-14;2026-08-13;Suporte Especializado;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00120;2026-10-31;2026-10-23;2026-10-26;2026-10-25;Operacoes Gerais;Duvida;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00121;2026-10-31;2026-10-11;2026-10-16;2026-10-12;Atendimento Digital;Duvida;Media;5;Concluido;Concluido no prazo;0;1
+LAB-00122;2026-10-31;2026-10-26;2026-10-29;;Validacao;Acompanhamento;Baixa;3;Aberto;Atrasado;2;
+LAB-00123;2026-10-31;2026-10-24;2026-10-29;2026-10-28;Atendimento Digital;Duvida;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00124;2026-10-31;2026-09-17;2026-09-20;2026-09-17;Atendimento Digital;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00125;2026-10-31;2026-08-12;2026-08-21;;Documentacao;Correcao;Alta;9;Aberto;Atrasado;71;
+LAB-00126;2026-10-31;2026-09-24;2026-10-03;2026-10-01;Documentacao;Duvida;Alta;9;Concluido;Concluido no prazo;0;7
+LAB-00127;2026-10-31;2026-09-03;2026-09-06;2026-09-04;Atendimento Digital;Correcao;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00128;2026-10-31;2026-10-15;2026-10-18;;Validacao;Analise documental;Baixa;3;Aberto;Atrasado;13;
+LAB-00129;2026-10-31;2026-09-14;2026-09-23;;Validacao;Solicitacao;Alta;9;Aberto;Atrasado;38;
+LAB-00130;2026-10-31;2026-08-07;2026-08-12;;Validacao;Correcao;Media;5;Aberto;Atrasado;80;
+LAB-00131;2026-10-31;2026-08-28;2026-08-31;2026-08-28;Documentacao;Duvida;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00132;2026-10-31;2026-08-31;2026-09-05;2026-09-02;Suporte Especializado;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;2
+LAB-00133;2026-10-31;2026-08-08;2026-08-11;2026-08-10;Atendimento Digital;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00134;2026-10-31;2026-09-08;2026-09-13;2026-09-13;Suporte Especializado;Analise documental;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00135;2026-10-31;2026-08-12;2026-08-17;2026-08-17;Suporte Especializado;Analise documental;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00136;2026-10-31;2026-09-29;2026-10-02;2026-10-03;Validacao;Solicitacao;Baixa;3;Concluido;Concluido fora do prazo;0;4
+LAB-00137;2026-10-31;2026-08-21;2026-08-30;;Atendimento Digital;Acompanhamento;Alta;9;Aberto;Atrasado;62;
+LAB-00138;2026-10-31;2026-09-23;2026-09-26;;Atendimento Digital;Correcao;Baixa;3;Aberto;Atrasado;35;
+LAB-00139;2026-10-31;2026-09-24;2026-09-27;2026-09-25;Suporte Especializado;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00140;2026-10-31;2026-10-08;2026-10-17;2026-10-16;Suporte Especializado;Solicitacao;Alta;9;Concluido;Concluido no prazo;0;8
+LAB-00141;2026-10-31;2026-08-30;2026-09-04;2026-08-31;Atendimento Digital;Correcao;Media;5;Concluido;Concluido no prazo;0;1
+LAB-00142;2026-10-31;2026-09-06;2026-09-09;2026-09-08;Atendimento Digital;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00143;2026-10-31;2026-10-09;2026-10-12;2026-10-10;Validacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00144;2026-10-31;2026-09-13;2026-09-16;2026-09-16;Suporte Especializado;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00145;2026-10-31;2026-09-27;2026-09-30;2026-10-05;Atendimento Digital;Analise documental;Baixa;3;Concluido;Concluido fora do prazo;0;8
+LAB-00146;2026-10-31;2026-10-03;2026-10-06;;Operacoes Gerais;Duvida;Baixa;3;Aberto;Atrasado;25;
+LAB-00147;2026-10-31;2026-09-05;2026-09-10;2026-09-15;Suporte Especializado;Solicitacao;Media;5;Concluido;Concluido fora do prazo;0;10
+LAB-00148;2026-10-31;2026-09-06;2026-09-15;2026-09-17;Suporte Especializado;Solicitacao;Alta;9;Concluido;Concluido fora do prazo;0;11
+LAB-00149;2026-10-31;2026-10-07;2026-10-10;;Validacao;Duvida;Baixa;3;Aberto;Atrasado;21;
+LAB-00150;2026-10-31;2026-08-26;2026-08-29;2026-09-04;Atendimento Digital;Analise documental;Baixa;3;Concluido;Concluido fora do prazo;0;9
+LAB-00151;2026-10-31;2026-08-11;2026-08-14;2026-08-14;Atendimento Digital;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00152;2026-10-31;2026-10-20;2026-10-29;;Suporte Especializado;Duvida;Alta;9;Aberto;Atrasado;2;
+LAB-00153;2026-10-31;2026-08-12;2026-08-15;;Operacoes Gerais;Acompanhamento;Baixa;3;Aberto;Atrasado;77;
+LAB-00154;2026-10-31;2026-08-30;2026-09-02;;Suporte Especializado;Duvida;Baixa;3;Aberto;Atrasado;59;
+LAB-00155;2026-10-31;2026-08-18;2026-08-23;2026-08-21;Suporte Especializado;Solicitacao;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00156;2026-10-31;2026-09-05;2026-09-08;2026-09-05;Documentacao;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00157;2026-10-31;2026-10-06;2026-10-09;2026-10-06;Documentacao;Duvida;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00158;2026-10-31;2026-09-02;2026-09-05;2026-09-05;Validacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00159;2026-10-31;2026-10-11;2026-10-16;2026-10-16;Atendimento Digital;Duvida;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00160;2026-10-31;2026-08-21;2026-08-24;;Operacoes Gerais;Solicitacao;Baixa;3;Aberto;Atrasado;68;
+LAB-00161;2026-10-31;2026-09-25;2026-09-30;2026-09-28;Atendimento Digital;Duvida;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00162;2026-10-31;2026-10-02;2026-10-11;;Operacoes Gerais;Analise documental;Alta;9;Aberto;Atrasado;20;
+LAB-00163;2026-10-31;2026-10-17;2026-10-20;2026-10-17;Atendimento Digital;Duvida;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00164;2026-10-31;2026-08-23;2026-08-28;2026-08-30;Atendimento Digital;Analise documental;Media;5;Concluido;Concluido fora do prazo;0;7
+LAB-00165;2026-10-31;2026-10-02;2026-10-05;;Atendimento Digital;Solicitacao;Baixa;3;Aberto;Atrasado;26;
+LAB-00166;2026-10-31;2026-09-24;2026-10-03;2026-10-01;Validacao;Analise documental;Alta;9;Concluido;Concluido no prazo;0;7
+LAB-00167;2026-10-31;2026-08-12;2026-08-17;2026-08-14;Atendimento Digital;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;2
+LAB-00168;2026-10-31;2026-10-01;2026-10-06;;Atendimento Digital;Solicitacao;Media;5;Aberto;Atrasado;25;
+LAB-00169;2026-10-31;2026-08-11;2026-08-14;2026-08-12;Suporte Especializado;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00170;2026-10-31;2026-09-09;2026-09-18;2026-09-17;Documentacao;Duvida;Alta;9;Concluido;Concluido no prazo;0;8
+LAB-00171;2026-10-31;2026-10-20;2026-10-25;2026-10-26;Validacao;Correcao;Media;5;Concluido;Concluido fora do prazo;0;6
+LAB-00172;2026-10-31;2026-09-21;2026-09-24;;Operacoes Gerais;Solicitacao;Baixa;3;Aberto;Atrasado;37;
+LAB-00173;2026-10-31;2026-09-22;2026-09-25;;Atendimento Digital;Duvida;Baixa;3;Aberto;Atrasado;36;
+LAB-00174;2026-10-31;2026-08-04;2026-08-13;;Suporte Especializado;Acompanhamento;Alta;9;Aberto;Atrasado;79;
+LAB-00175;2026-10-31;2026-09-03;2026-09-06;2026-09-03;Documentacao;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00176;2026-10-31;2026-10-02;2026-10-05;;Validacao;Acompanhamento;Baixa;3;Aberto;Atrasado;26;
+LAB-00177;2026-10-31;2026-08-20;2026-08-25;2026-08-26;Operacoes Gerais;Solicitacao;Media;5;Concluido;Concluido fora do prazo;0;6
+LAB-00178;2026-10-31;2026-09-23;2026-09-26;;Atendimento Digital;Duvida;Baixa;3;Aberto;Atrasado;35;
+LAB-00179;2026-10-31;2026-08-20;2026-08-25;2026-08-23;Operacoes Gerais;Duvida;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00180;2026-10-31;2026-09-03;2026-09-06;2026-09-08;Atendimento Digital;Duvida;Baixa;3;Concluido;Concluido fora do prazo;0;5
+LAB-00181;2026-10-31;2026-08-08;2026-08-17;2026-08-18;Documentacao;Solicitacao;Alta;9;Concluido;Concluido fora do prazo;0;10
+LAB-00182;2026-10-31;2026-10-21;2026-10-24;2026-10-25;Atendimento Digital;Correcao;Baixa;3;Concluido;Concluido fora do prazo;0;4
+LAB-00183;2026-10-31;2026-10-08;2026-10-11;2026-10-12;Atendimento Digital;Correcao;Baixa;3;Concluido;Concluido fora do prazo;0;4
+LAB-00184;2026-10-31;2026-09-25;2026-09-30;2026-09-29;Atendimento Digital;Duvida;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00185;2026-10-31;2026-08-10;2026-08-19;2026-08-20;Atendimento Digital;Solicitacao;Alta;9;Concluido;Concluido fora do prazo;0;10
+LAB-00186;2026-10-31;2026-09-10;2026-09-15;;Suporte Especializado;Solicitacao;Media;5;Aberto;Atrasado;46;
+LAB-00187;2026-10-31;2026-08-24;2026-09-02;2026-08-28;Suporte Especializado;Correcao;Alta;9;Concluido;Concluido no prazo;0;4
+LAB-00188;2026-10-31;2026-10-26;2026-10-29;2026-10-28;Validacao;Duvida;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00189;2026-10-31;2026-08-26;2026-08-31;2026-08-27;Documentacao;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;1
+LAB-00190;2026-10-31;2026-08-27;2026-09-01;2026-08-31;Validacao;Duvida;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00191;2026-10-31;2026-09-18;2026-09-21;2026-09-19;Atendimento Digital;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00192;2026-10-31;2026-10-30;2026-11-02;;Atendimento Digital;Analise documental;Baixa;3;Aberto;No prazo;0;
+LAB-00193;2026-10-31;2026-10-19;2026-10-24;;Atendimento Digital;Duvida;Media;5;Aberto;Atrasado;7;
+LAB-00194;2026-10-31;2026-08-09;2026-08-12;2026-08-14;Atendimento Digital;Analise documental;Baixa;3;Concluido;Concluido fora do prazo;0;5
+LAB-00195;2026-10-31;2026-09-04;2026-09-07;;Atendimento Digital;Solicitacao;Baixa;3;Aberto;Atrasado;54;
+LAB-00196;2026-10-31;2026-10-11;2026-10-14;2026-10-11;Validacao;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00197;2026-10-31;2026-10-02;2026-10-05;;Operacoes Gerais;Solicitacao;Baixa;3;Aberto;Atrasado;26;
+LAB-00198;2026-10-31;2026-09-17;2026-09-22;2026-09-20;Validacao;Analise documental;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00199;2026-10-31;2026-08-13;2026-08-16;2026-08-15;Suporte Especializado;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00200;2026-10-31;2026-08-23;2026-08-28;2026-08-25;Operacoes Gerais;Analise documental;Media;5;Concluido;Concluido no prazo;0;2
+LAB-00201;2026-10-31;2026-10-29;2026-11-01;;Atendimento Digital;Analise documental;Baixa;3;Aberto;Vence amanha;0;
+LAB-00202;2026-10-31;2026-10-23;2026-11-01;;Documentacao;Duvida;Alta;9;Aberto;Vence amanha;0;
+LAB-00203;2026-10-31;2026-09-24;2026-09-29;2026-09-29;Suporte Especializado;Correcao;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00204;2026-10-31;2026-10-25;2026-10-30;2026-10-28;Documentacao;Solicitacao;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00205;2026-10-31;2026-10-28;2026-11-06;;Operacoes Gerais;Acompanhamento;Alta;9;Aberto;No prazo;0;
+LAB-00206;2026-10-31;2026-09-26;2026-10-01;2026-09-29;Documentacao;Duvida;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00207;2026-10-31;2026-10-27;2026-10-30;;Suporte Especializado;Analise documental;Baixa;3;Aberto;Atrasado;1;
+LAB-00208;2026-10-31;2026-08-26;2026-08-29;2026-08-31;Atendimento Digital;Duvida;Baixa;3;Concluido;Concluido fora do prazo;0;5
+LAB-00209;2026-10-31;2026-10-17;2026-10-20;;Validacao;Solicitacao;Baixa;3;Aberto;Atrasado;11;
+LAB-00210;2026-10-31;2026-09-15;2026-09-18;2026-09-15;Documentacao;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00211;2026-10-31;2026-08-21;2026-08-26;2026-08-31;Validacao;Correcao;Media;5;Concluido;Concluido fora do prazo;0;10
+LAB-00212;2026-10-31;2026-10-29;2026-11-01;;Atendimento Digital;Duvida;Baixa;3;Aberto;Vence amanha;0;
+LAB-00213;2026-10-31;2026-10-28;2026-10-31;;Validacao;Correcao;Baixa;3;Aberto;Vence hoje;0;
+LAB-00214;2026-10-31;2026-10-12;2026-10-17;2026-10-19;Validacao;Solicitacao;Media;5;Concluido;Concluido fora do prazo;0;7
+LAB-00215;2026-10-31;2026-10-18;2026-10-21;2026-10-22;Atendimento Digital;Analise documental;Baixa;3;Concluido;Concluido fora do prazo;0;4
+LAB-00216;2026-10-31;2026-10-03;2026-10-06;2026-10-03;Suporte Especializado;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00217;2026-10-31;2026-09-10;2026-09-19;2026-09-21;Validacao;Analise documental;Alta;9;Concluido;Concluido fora do prazo;0;11
+LAB-00218;2026-10-31;2026-09-28;2026-10-03;2026-10-02;Suporte Especializado;Duvida;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00219;2026-10-31;2026-09-13;2026-09-22;2026-09-25;Atendimento Digital;Solicitacao;Alta;9;Concluido;Concluido fora do prazo;0;12
+LAB-00220;2026-10-31;2026-08-17;2026-08-20;2026-08-27;Atendimento Digital;Correcao;Baixa;3;Concluido;Concluido fora do prazo;0;10
+LAB-00221;2026-10-31;2026-08-16;2026-08-19;2026-08-17;Atendimento Digital;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00222;2026-10-31;2026-09-04;2026-09-07;2026-09-04;Operacoes Gerais;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00223;2026-10-31;2026-09-08;2026-09-13;2026-09-10;Atendimento Digital;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;2
+LAB-00224;2026-10-31;2026-08-18;2026-08-23;;Validacao;Solicitacao;Media;5;Aberto;Atrasado;69;
+LAB-00225;2026-10-31;2026-09-05;2026-09-08;2026-09-05;Validacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00226;2026-10-31;2026-09-30;2026-10-05;2026-09-30;Validacao;Solicitacao;Media;5;Concluido;Concluido no prazo;0;0
+LAB-00227;2026-10-31;2026-08-11;2026-08-20;2026-08-19;Operacoes Gerais;Acompanhamento;Alta;9;Concluido;Concluido no prazo;0;8
+LAB-00228;2026-10-31;2026-08-10;2026-08-19;2026-08-23;Suporte Especializado;Acompanhamento;Alta;9;Concluido;Concluido fora do prazo;0;13
+LAB-00229;2026-10-31;2026-08-27;2026-08-30;2026-09-01;Validacao;Analise documental;Baixa;3;Concluido;Concluido fora do prazo;0;5
+LAB-00230;2026-10-31;2026-09-04;2026-09-09;2026-09-13;Documentacao;Duvida;Media;5;Concluido;Concluido fora do prazo;0;9
+LAB-00231;2026-10-31;2026-08-14;2026-08-23;2026-08-21;Atendimento Digital;Analise documental;Alta;9;Concluido;Concluido no prazo;0;7
+LAB-00232;2026-10-31;2026-09-23;2026-10-02;;Operacoes Gerais;Acompanhamento;Alta;9;Aberto;Atrasado;29;
+LAB-00233;2026-10-31;2026-08-10;2026-08-13;2026-08-10;Validacao;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00234;2026-10-31;2026-10-20;2026-10-23;;Validacao;Duvida;Baixa;3;Aberto;Atrasado;8;
+LAB-00235;2026-10-31;2026-08-09;2026-08-18;2026-08-15;Validacao;Correcao;Alta;9;Concluido;Concluido no prazo;0;6
+LAB-00236;2026-10-31;2026-10-08;2026-10-17;;Suporte Especializado;Acompanhamento;Alta;9;Aberto;Atrasado;14;
+LAB-00237;2026-10-31;2026-10-17;2026-10-22;2026-10-24;Documentacao;Solicitacao;Media;5;Concluido;Concluido fora do prazo;0;7
+LAB-00238;2026-10-31;2026-10-17;2026-10-20;2026-10-21;Documentacao;Acompanhamento;Baixa;3;Concluido;Concluido fora do prazo;0;4
+LAB-00239;2026-10-31;2026-10-17;2026-10-20;2026-10-19;Suporte Especializado;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00240;2026-10-31;2026-10-27;2026-11-01;;Atendimento Digital;Duvida;Media;5;Aberto;Vence amanha;0;
+LAB-00241;2026-10-31;2026-08-26;2026-08-31;;Operacoes Gerais;Solicitacao;Media;5;Aberto;Atrasado;61;
+LAB-00242;2026-10-31;2026-08-10;2026-08-19;;Validacao;Duvida;Alta;9;Aberto;Atrasado;73;
+LAB-00243;2026-10-31;2026-09-15;2026-09-18;2026-09-23;Documentacao;Acompanhamento;Baixa;3;Concluido;Concluido fora do prazo;0;8
+LAB-00244;2026-10-31;2026-08-08;2026-08-11;2026-08-08;Documentacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00245;2026-10-31;2026-10-29;2026-11-07;;Atendimento Digital;Solicitacao;Alta;9;Aberto;No prazo;0;
+LAB-00246;2026-10-31;2026-08-21;2026-08-24;;Atendimento Digital;Solicitacao;Baixa;3;Aberto;Atrasado;68;
+LAB-00247;2026-10-31;2026-09-09;2026-09-14;;Operacoes Gerais;Acompanhamento;Media;5;Aberto;Atrasado;47;
+LAB-00248;2026-10-31;2026-08-31;2026-09-05;;Atendimento Digital;Solicitacao;Media;5;Aberto;Atrasado;56;
+LAB-00249;2026-10-31;2026-10-14;2026-10-17;2026-10-14;Validacao;Duvida;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00250;2026-10-31;2026-10-29;2026-11-01;;Suporte Especializado;Correcao;Baixa;3;Aberto;Vence amanha;0;
+LAB-00251;2026-10-31;2026-09-19;2026-09-24;2026-09-20;Suporte Especializado;Analise documental;Media;5;Concluido;Concluido no prazo;0;1
+LAB-00252;2026-10-31;2026-08-14;2026-08-19;2026-08-18;Atendimento Digital;Correcao;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00253;2026-10-31;2026-08-10;2026-08-19;;Validacao;Solicitacao;Alta;9;Aberto;Atrasado;73;
+LAB-00254;2026-10-31;2026-10-16;2026-10-21;2026-10-23;Documentacao;Acompanhamento;Media;5;Concluido;Concluido fora do prazo;0;7
+LAB-00255;2026-10-31;2026-08-11;2026-08-16;2026-08-17;Documentacao;Duvida;Media;5;Concluido;Concluido fora do prazo;0;6
+LAB-00256;2026-10-31;2026-10-05;2026-10-10;2026-10-06;Suporte Especializado;Analise documental;Media;5;Concluido;Concluido no prazo;0;1
+LAB-00257;2026-10-31;2026-10-25;2026-11-03;;Documentacao;Duvida;Alta;9;Aberto;No prazo;0;
+LAB-00258;2026-10-31;2026-10-19;2026-10-22;;Documentacao;Analise documental;Baixa;3;Aberto;Atrasado;9;
+LAB-00259;2026-10-31;2026-10-31;2026-11-03;;Operacoes Gerais;Duvida;Baixa;3;Aberto;No prazo;0;
+LAB-00260;2026-10-31;2026-08-29;2026-09-03;;Documentacao;Correcao;Media;5;Aberto;Atrasado;58;
+LAB-00261;2026-10-31;2026-10-08;2026-10-13;;Documentacao;Correcao;Media;5;Aberto;Atrasado;18;
+LAB-00262;2026-10-31;2026-09-25;2026-10-04;2026-10-05;Validacao;Duvida;Alta;9;Concluido;Concluido fora do prazo;0;10
+LAB-00263;2026-10-31;2026-09-12;2026-09-15;2026-09-12;Suporte Especializado;Correcao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00264;2026-10-31;2026-08-17;2026-08-22;;Documentacao;Acompanhamento;Media;5;Aberto;Atrasado;70;
+LAB-00265;2026-10-31;2026-08-21;2026-08-26;2026-08-26;Atendimento Digital;Correcao;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00266;2026-10-31;2026-08-05;2026-08-08;2026-08-06;Suporte Especializado;Correcao;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00267;2026-10-31;2026-09-17;2026-09-22;;Atendimento Digital;Analise documental;Media;5;Aberto;Atrasado;39;
+LAB-00268;2026-10-31;2026-08-23;2026-08-28;2026-08-26;Documentacao;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00269;2026-10-31;2026-10-29;2026-11-01;;Atendimento Digital;Acompanhamento;Baixa;3;Aberto;Vence amanha;0;
+LAB-00270;2026-10-31;2026-08-21;2026-08-26;;Atendimento Digital;Solicitacao;Media;5;Aberto;Atrasado;66;
+LAB-00271;2026-10-31;2026-09-03;2026-09-06;;Atendimento Digital;Analise documental;Baixa;3;Aberto;Atrasado;55;
+LAB-00272;2026-10-31;2026-09-13;2026-09-18;2026-09-15;Documentacao;Duvida;Media;5;Concluido;Concluido no prazo;0;2
+LAB-00273;2026-10-31;2026-08-27;2026-09-01;2026-08-31;Atendimento Digital;Solicitacao;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00274;2026-10-31;2026-08-28;2026-08-31;;Suporte Especializado;Analise documental;Baixa;3;Aberto;Atrasado;61;
+LAB-00275;2026-10-31;2026-08-11;2026-08-16;2026-08-18;Suporte Especializado;Duvida;Media;5;Concluido;Concluido fora do prazo;0;7
+LAB-00276;2026-10-31;2026-08-23;2026-08-26;;Atendimento Digital;Correcao;Baixa;3;Aberto;Atrasado;66;
+LAB-00277;2026-10-31;2026-09-22;2026-09-27;2026-09-22;Suporte Especializado;Analise documental;Media;5;Concluido;Concluido no prazo;0;0
+LAB-00278;2026-10-31;2026-10-26;2026-10-29;;Atendimento Digital;Duvida;Baixa;3;Aberto;Atrasado;2;
+LAB-00279;2026-10-31;2026-09-22;2026-10-01;;Suporte Especializado;Duvida;Alta;9;Aberto;Atrasado;30;
+LAB-00280;2026-10-31;2026-10-19;2026-10-28;2026-10-25;Atendimento Digital;Duvida;Alta;9;Concluido;Concluido no prazo;0;6
+LAB-00281;2026-10-31;2026-09-15;2026-09-18;2026-09-17;Documentacao;Correcao;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00282;2026-10-31;2026-09-10;2026-09-15;2026-09-13;Suporte Especializado;Duvida;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00283;2026-10-31;2026-08-20;2026-08-29;2026-08-31;Documentacao;Duvida;Alta;9;Concluido;Concluido fora do prazo;0;11
+LAB-00284;2026-10-31;2026-10-11;2026-10-14;2026-10-14;Suporte Especializado;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00285;2026-10-31;2026-10-27;2026-10-30;;Suporte Especializado;Duvida;Baixa;3;Aberto;Atrasado;1;
+LAB-00286;2026-10-31;2026-10-12;2026-10-15;2026-10-12;Atendimento Digital;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00287;2026-10-31;2026-10-11;2026-10-14;;Operacoes Gerais;Duvida;Baixa;3;Aberto;Atrasado;17;
+LAB-00288;2026-10-31;2026-08-06;2026-08-15;;Suporte Especializado;Analise documental;Alta;9;Aberto;Atrasado;77;
+LAB-00289;2026-10-31;2026-10-08;2026-10-11;2026-10-13;Atendimento Digital;Duvida;Baixa;3;Concluido;Concluido fora do prazo;0;5
+LAB-00290;2026-10-31;2026-09-24;2026-09-27;;Atendimento Digital;Acompanhamento;Baixa;3;Aberto;Atrasado;34;
+LAB-00291;2026-10-31;2026-08-16;2026-08-19;;Atendimento Digital;Analise documental;Baixa;3;Aberto;Atrasado;73;
+LAB-00292;2026-10-31;2026-08-19;2026-08-22;2026-08-25;Suporte Especializado;Solicitacao;Baixa;3;Concluido;Concluido fora do prazo;0;6
+LAB-00293;2026-10-31;2026-09-22;2026-09-27;2026-09-26;Documentacao;Analise documental;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00294;2026-10-31;2026-09-25;2026-09-28;;Suporte Especializado;Analise documental;Baixa;3;Aberto;Atrasado;33;
+LAB-00295;2026-10-31;2026-09-20;2026-09-25;2026-09-27;Suporte Especializado;Correcao;Media;5;Concluido;Concluido fora do prazo;0;7
+LAB-00296;2026-10-31;2026-09-24;2026-09-27;2026-09-30;Atendimento Digital;Analise documental;Baixa;3;Concluido;Concluido fora do prazo;0;6
+LAB-00297;2026-10-31;2026-09-14;2026-09-19;;Atendimento Digital;Analise documental;Media;5;Aberto;Atrasado;42;
+LAB-00298;2026-10-31;2026-10-24;2026-10-27;;Suporte Especializado;Duvida;Baixa;3;Aberto;Atrasado;4;
+LAB-00299;2026-10-31;2026-08-02;2026-08-05;2026-08-04;Atendimento Digital;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00300;2026-10-31;2026-09-30;2026-10-09;2026-10-07;Operacoes Gerais;Correcao;Alta;9;Concluido;Concluido no prazo;0;7
+LAB-00301;2026-10-31;2026-09-21;2026-09-24;2026-09-21;Documentacao;Correcao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00302;2026-10-31;2026-09-07;2026-09-12;;Documentacao;Solicitacao;Media;5;Aberto;Atrasado;49;
+LAB-00303;2026-10-31;2026-08-20;2026-08-25;2026-08-20;Suporte Especializado;Analise documental;Media;5;Concluido;Concluido no prazo;0;0
+LAB-00304;2026-10-31;2026-09-10;2026-09-13;2026-09-13;Suporte Especializado;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00305;2026-10-31;2026-10-13;2026-10-18;;Operacoes Gerais;Acompanhamento;Media;5;Aberto;Atrasado;13;
+LAB-00306;2026-10-31;2026-09-20;2026-09-23;;Atendimento Digital;Correcao;Baixa;3;Aberto;Atrasado;38;
+LAB-00307;2026-10-31;2026-09-21;2026-09-24;2026-09-21;Atendimento Digital;Correcao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00308;2026-10-31;2026-09-14;2026-09-17;2026-09-14;Suporte Especializado;Duvida;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00309;2026-10-31;2026-08-03;2026-08-08;2026-08-07;Validacao;Solicitacao;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00310;2026-10-31;2026-08-21;2026-08-26;2026-08-22;Atendimento Digital;Solicitacao;Media;5;Concluido;Concluido no prazo;0;1
+LAB-00311;2026-10-31;2026-10-21;2026-10-24;2026-10-28;Validacao;Acompanhamento;Baixa;3;Concluido;Concluido fora do prazo;0;7
+LAB-00312;2026-10-31;2026-08-20;2026-08-23;2026-08-25;Documentacao;Solicitacao;Baixa;3;Concluido;Concluido fora do prazo;0;5
+LAB-00313;2026-10-31;2026-08-18;2026-08-23;;Validacao;Solicitacao;Media;5;Aberto;Atrasado;69;
+LAB-00314;2026-10-31;2026-08-18;2026-08-21;2026-08-22;Validacao;Duvida;Baixa;3;Concluido;Concluido fora do prazo;0;4
+LAB-00315;2026-10-31;2026-09-13;2026-09-22;2026-09-22;Atendimento Digital;Duvida;Alta;9;Concluido;Concluido no prazo;0;9
+LAB-00316;2026-10-31;2026-08-25;2026-08-30;2026-08-28;Atendimento Digital;Analise documental;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00317;2026-10-31;2026-09-06;2026-09-09;;Suporte Especializado;Duvida;Baixa;3;Aberto;Atrasado;52;
+LAB-00318;2026-10-31;2026-09-17;2026-09-20;;Atendimento Digital;Acompanhamento;Baixa;3;Aberto;Atrasado;41;
+LAB-00319;2026-10-31;2026-10-14;2026-10-19;2026-10-16;Suporte Especializado;Solicitacao;Media;5;Concluido;Concluido no prazo;0;2
+LAB-00320;2026-10-31;2026-10-23;2026-10-28;2026-10-25;Atendimento Digital;Solicitacao;Media;5;Concluido;Concluido no prazo;0;2
+LAB-00321;2026-10-31;2026-10-28;2026-10-31;;Atendimento Digital;Correcao;Baixa;3;Aberto;Vence hoje;0;
+LAB-00322;2026-10-31;2026-08-09;2026-08-14;;Validacao;Solicitacao;Media;5;Aberto;Atrasado;78;
+LAB-00323;2026-10-31;2026-10-28;2026-11-02;;Documentacao;Correcao;Media;5;Aberto;No prazo;0;
+LAB-00324;2026-10-31;2026-08-31;2026-09-03;;Atendimento Digital;Acompanhamento;Baixa;3;Aberto;Atrasado;58;
+LAB-00325;2026-10-31;2026-09-11;2026-09-14;;Suporte Especializado;Correcao;Baixa;3;Aberto;Atrasado;47;
+LAB-00326;2026-10-31;2026-10-24;2026-11-02;;Validacao;Acompanhamento;Alta;9;Aberto;No prazo;0;
+LAB-00327;2026-10-31;2026-08-28;2026-08-31;2026-09-04;Atendimento Digital;Analise documental;Baixa;3;Concluido;Concluido fora do prazo;0;7
+LAB-00328;2026-10-31;2026-10-04;2026-10-07;2026-10-04;Documentacao;Duvida;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00329;2026-10-31;2026-10-08;2026-10-17;2026-10-15;Operacoes Gerais;Solicitacao;Alta;9;Concluido;Concluido no prazo;0;7
+LAB-00330;2026-10-31;2026-08-04;2026-08-07;;Documentacao;Solicitacao;Baixa;3;Aberto;Atrasado;85;
+LAB-00331;2026-10-31;2026-09-14;2026-09-19;2026-09-15;Atendimento Digital;Duvida;Media;5;Concluido;Concluido no prazo;0;1
+LAB-00332;2026-10-31;2026-10-13;2026-10-18;;Documentacao;Solicitacao;Media;5;Aberto;Atrasado;13;
+LAB-00333;2026-10-31;2026-08-06;2026-08-11;2026-08-13;Documentacao;Analise documental;Media;5;Concluido;Concluido fora do prazo;0;7
+LAB-00334;2026-10-31;2026-09-30;2026-10-09;;Documentacao;Correcao;Alta;9;Aberto;Atrasado;22;
+LAB-00335;2026-10-31;2026-10-15;2026-10-18;;Suporte Especializado;Acompanhamento;Baixa;3;Aberto;Atrasado;13;
+LAB-00336;2026-10-31;2026-09-18;2026-09-23;2026-09-26;Validacao;Acompanhamento;Media;5;Concluido;Concluido fora do prazo;0;8
+LAB-00337;2026-10-31;2026-09-04;2026-09-09;2026-09-07;Suporte Especializado;Correcao;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00338;2026-10-31;2026-08-18;2026-08-23;2026-08-22;Atendimento Digital;Solicitacao;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00339;2026-10-31;2026-10-28;2026-10-31;;Validacao;Analise documental;Baixa;3;Aberto;Vence hoje;0;
+LAB-00340;2026-10-31;2026-08-28;2026-08-31;2026-08-31;Validacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00341;2026-10-31;2026-08-23;2026-08-26;2026-08-27;Suporte Especializado;Correcao;Baixa;3;Concluido;Concluido fora do prazo;0;4
+LAB-00342;2026-10-31;2026-10-22;2026-10-25;2026-10-22;Documentacao;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00343;2026-10-31;2026-08-06;2026-08-09;2026-08-08;Operacoes Gerais;Correcao;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00344;2026-10-31;2026-09-03;2026-09-06;2026-09-10;Validacao;Duvida;Baixa;3;Concluido;Concluido fora do prazo;0;7
+LAB-00345;2026-10-31;2026-09-11;2026-09-20;;Validacao;Duvida;Alta;9;Aberto;Atrasado;41;
+LAB-00346;2026-10-31;2026-09-22;2026-09-27;2026-09-22;Suporte Especializado;Solicitacao;Media;5;Concluido;Concluido no prazo;0;0
+LAB-00347;2026-10-31;2026-10-28;2026-11-02;;Documentacao;Correcao;Media;5;Aberto;No prazo;0;
+LAB-00348;2026-10-31;2026-08-11;2026-08-16;2026-08-14;Atendimento Digital;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00349;2026-10-31;2026-08-16;2026-08-19;2026-08-18;Documentacao;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00350;2026-10-31;2026-08-10;2026-08-13;2026-08-12;Validacao;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00351;2026-10-31;2026-10-24;2026-10-27;2026-10-24;Atendimento Digital;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00352;2026-10-31;2026-08-12;2026-08-15;2026-08-15;Atendimento Digital;Correcao;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00353;2026-10-31;2026-10-20;2026-10-23;;Validacao;Acompanhamento;Baixa;3;Aberto;Atrasado;8;
+LAB-00354;2026-10-31;2026-08-29;2026-09-01;;Atendimento Digital;Analise documental;Baixa;3;Aberto;Atrasado;60;
+LAB-00355;2026-10-31;2026-10-26;2026-10-29;2026-10-28;Atendimento Digital;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00356;2026-10-31;2026-08-03;2026-08-06;2026-08-03;Atendimento Digital;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00357;2026-10-31;2026-08-27;2026-08-30;2026-08-27;Validacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00358;2026-10-31;2026-09-03;2026-09-12;2026-09-14;Atendimento Digital;Correcao;Alta;9;Concluido;Concluido fora do prazo;0;11
+LAB-00359;2026-10-31;2026-09-23;2026-10-02;;Validacao;Solicitacao;Alta;9;Aberto;Atrasado;29;
+LAB-00360;2026-10-31;2026-08-23;2026-08-26;2026-08-25;Documentacao;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00361;2026-10-31;2026-08-20;2026-08-29;2026-09-04;Atendimento Digital;Acompanhamento;Alta;9;Concluido;Concluido fora do prazo;0;15
+LAB-00362;2026-10-31;2026-09-18;2026-09-23;;Validacao;Acompanhamento;Media;5;Aberto;Atrasado;38;
+LAB-00363;2026-10-31;2026-10-27;2026-11-01;;Documentacao;Duvida;Media;5;Aberto;Vence amanha;0;
+LAB-00364;2026-10-31;2026-09-19;2026-09-22;2026-09-22;Suporte Especializado;Correcao;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00365;2026-10-31;2026-09-16;2026-09-21;2026-09-22;Atendimento Digital;Duvida;Media;5;Concluido;Concluido fora do prazo;0;6
+LAB-00366;2026-10-31;2026-10-10;2026-10-15;;Atendimento Digital;Analise documental;Media;5;Aberto;Atrasado;16;
+LAB-00367;2026-10-31;2026-08-24;2026-08-29;2026-08-30;Validacao;Acompanhamento;Media;5;Concluido;Concluido fora do prazo;0;6
+LAB-00368;2026-10-31;2026-09-01;2026-09-06;2026-09-01;Atendimento Digital;Solicitacao;Media;5;Concluido;Concluido no prazo;0;0
+LAB-00369;2026-10-31;2026-09-18;2026-09-23;2026-09-20;Documentacao;Analise documental;Media;5;Concluido;Concluido no prazo;0;2
+LAB-00370;2026-10-31;2026-09-13;2026-09-18;2026-09-18;Validacao;Solicitacao;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00371;2026-10-31;2026-09-21;2026-09-24;2026-09-22;Suporte Especializado;Duvida;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00372;2026-10-31;2026-10-24;2026-10-27;;Suporte Especializado;Correcao;Baixa;3;Aberto;Atrasado;4;
+LAB-00373;2026-10-31;2026-10-20;2026-10-25;;Validacao;Correcao;Media;5;Aberto;Atrasado;6;
+LAB-00374;2026-10-31;2026-09-09;2026-09-14;2026-09-09;Documentacao;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;0
+LAB-00375;2026-10-31;2026-10-23;2026-10-26;2026-10-23;Suporte Especializado;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00376;2026-10-31;2026-10-03;2026-10-06;2026-10-07;Suporte Especializado;Acompanhamento;Baixa;3;Concluido;Concluido fora do prazo;0;4
+LAB-00377;2026-10-31;2026-10-28;2026-10-31;;Atendimento Digital;Correcao;Baixa;3;Aberto;Vence hoje;0;
+LAB-00378;2026-10-31;2026-09-27;2026-09-30;;Suporte Especializado;Analise documental;Baixa;3;Aberto;Atrasado;31;
+LAB-00379;2026-10-31;2026-08-19;2026-08-22;2026-08-19;Validacao;Correcao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00380;2026-10-31;2026-08-23;2026-08-26;2026-08-26;Validacao;Correcao;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00381;2026-10-31;2026-08-02;2026-08-05;2026-08-05;Validacao;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00382;2026-10-31;2026-08-31;2026-09-05;2026-08-31;Atendimento Digital;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;0
+LAB-00383;2026-10-31;2026-08-22;2026-08-25;;Validacao;Solicitacao;Baixa;3;Aberto;Atrasado;67;
+LAB-00384;2026-10-31;2026-10-06;2026-10-09;;Atendimento Digital;Acompanhamento;Baixa;3;Aberto;Atrasado;22;
+LAB-00385;2026-10-31;2026-10-15;2026-10-18;2026-10-17;Documentacao;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00386;2026-10-31;2026-10-12;2026-10-15;2026-10-12;Validacao;Duvida;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00387;2026-10-31;2026-09-10;2026-09-19;2026-09-18;Validacao;Acompanhamento;Alta;9;Concluido;Concluido no prazo;0;8
+LAB-00388;2026-10-31;2026-08-23;2026-09-01;2026-08-28;Suporte Especializado;Correcao;Alta;9;Concluido;Concluido no prazo;0;5
+LAB-00389;2026-10-31;2026-10-25;2026-10-30;2026-10-27;Documentacao;Correcao;Media;5;Concluido;Concluido no prazo;0;2
+LAB-00390;2026-10-31;2026-08-06;2026-08-09;2026-08-09;Atendimento Digital;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00391;2026-10-31;2026-09-30;2026-10-05;2026-10-06;Atendimento Digital;Correcao;Media;5;Concluido;Concluido fora do prazo;0;6
+LAB-00392;2026-10-31;2026-09-25;2026-09-30;2026-09-27;Atendimento Digital;Solicitacao;Media;5;Concluido;Concluido no prazo;0;2
+LAB-00393;2026-10-31;2026-10-15;2026-10-18;2026-10-15;Atendimento Digital;Duvida;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00394;2026-10-31;2026-08-05;2026-08-08;2026-08-05;Atendimento Digital;Duvida;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00395;2026-10-31;2026-10-07;2026-10-12;2026-10-11;Operacoes Gerais;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00396;2026-10-31;2026-09-25;2026-09-30;;Validacao;Analise documental;Media;5;Aberto;Atrasado;31;
+LAB-00397;2026-10-31;2026-10-06;2026-10-09;2026-10-09;Atendimento Digital;Correcao;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00398;2026-10-31;2026-08-10;2026-08-13;;Atendimento Digital;Analise documental;Baixa;3;Aberto;Atrasado;79;
+LAB-00399;2026-10-31;2026-08-07;2026-08-10;2026-08-08;Validacao;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00400;2026-10-31;2026-08-10;2026-08-15;2026-08-13;Suporte Especializado;Duvida;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00401;2026-10-31;2026-09-05;2026-09-14;2026-09-15;Atendimento Digital;Solicitacao;Alta;9;Concluido;Concluido fora do prazo;0;10
+LAB-00402;2026-10-31;2026-10-01;2026-10-06;2026-10-02;Atendimento Digital;Correcao;Media;5;Concluido;Concluido no prazo;0;1
+LAB-00403;2026-10-31;2026-10-08;2026-10-13;2026-10-13;Documentacao;Correcao;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00404;2026-10-31;2026-10-06;2026-10-15;2026-10-19;Suporte Especializado;Acompanhamento;Alta;9;Concluido;Concluido fora do prazo;0;13
+LAB-00405;2026-10-31;2026-08-28;2026-08-31;;Atendimento Digital;Correcao;Baixa;3;Aberto;Atrasado;61;
+LAB-00406;2026-10-31;2026-09-14;2026-09-19;2026-09-18;Documentacao;Duvida;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00407;2026-10-31;2026-08-06;2026-08-09;2026-08-10;Validacao;Duvida;Baixa;3;Concluido;Concluido fora do prazo;0;4
+LAB-00408;2026-10-31;2026-10-18;2026-10-23;2026-10-23;Atendimento Digital;Analise documental;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00409;2026-10-31;2026-10-20;2026-10-25;2026-10-25;Atendimento Digital;Solicitacao;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00410;2026-10-31;2026-09-28;2026-10-01;;Documentacao;Duvida;Baixa;3;Aberto;Atrasado;30;
+LAB-00411;2026-10-31;2026-08-14;2026-08-19;;Validacao;Solicitacao;Media;5;Aberto;Atrasado;73;
+LAB-00412;2026-10-31;2026-08-16;2026-08-19;2026-08-17;Documentacao;Correcao;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00413;2026-10-31;2026-09-24;2026-10-03;;Atendimento Digital;Solicitacao;Alta;9;Aberto;Atrasado;28;
+LAB-00414;2026-10-31;2026-10-11;2026-10-20;;Suporte Especializado;Duvida;Alta;9;Aberto;Atrasado;11;
+LAB-00415;2026-10-31;2026-10-20;2026-10-23;2026-10-20;Documentacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00416;2026-10-31;2026-08-28;2026-08-31;;Documentacao;Analise documental;Baixa;3;Aberto;Atrasado;61;
+LAB-00417;2026-10-31;2026-10-11;2026-10-16;2026-10-13;Documentacao;Analise documental;Media;5;Concluido;Concluido no prazo;0;2
+LAB-00418;2026-10-31;2026-10-20;2026-10-29;2026-10-29;Documentacao;Correcao;Alta;9;Concluido;Concluido no prazo;0;9
+LAB-00419;2026-10-31;2026-08-18;2026-08-21;2026-08-19;Validacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00420;2026-10-31;2026-10-05;2026-10-08;2026-10-05;Operacoes Gerais;Correcao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00421;2026-10-31;2026-10-29;2026-11-01;;Validacao;Correcao;Baixa;3;Aberto;Vence amanha;0;
+LAB-00422;2026-10-31;2026-10-23;2026-10-26;2026-10-23;Atendimento Digital;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00423;2026-10-31;2026-08-22;2026-08-25;;Documentacao;Duvida;Baixa;3;Aberto;Atrasado;67;
+LAB-00424;2026-10-31;2026-10-31;2026-11-03;;Atendimento Digital;Duvida;Baixa;3;Aberto;No prazo;0;
+LAB-00425;2026-10-31;2026-08-31;2026-09-03;2026-09-03;Atendimento Digital;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00426;2026-10-31;2026-10-29;2026-11-07;;Suporte Especializado;Solicitacao;Alta;9;Aberto;No prazo;0;
+LAB-00427;2026-10-31;2026-08-06;2026-08-15;;Atendimento Digital;Solicitacao;Alta;9;Aberto;Atrasado;77;
+LAB-00428;2026-10-31;2026-09-18;2026-09-23;;Validacao;Correcao;Media;5;Aberto;Atrasado;38;
+LAB-00429;2026-10-31;2026-09-05;2026-09-08;2026-09-07;Atendimento Digital;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00430;2026-10-31;2026-09-28;2026-10-01;2026-09-28;Suporte Especializado;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00431;2026-10-31;2026-10-18;2026-10-21;2026-10-24;Atendimento Digital;Correcao;Baixa;3;Concluido;Concluido fora do prazo;0;6
+LAB-00432;2026-10-31;2026-10-31;2026-11-05;;Suporte Especializado;Analise documental;Media;5;Aberto;No prazo;0;
+LAB-00433;2026-10-31;2026-10-02;2026-10-07;;Validacao;Correcao;Media;5;Aberto;Atrasado;24;
+LAB-00434;2026-10-31;2026-08-11;2026-08-16;;Suporte Especializado;Analise documental;Media;5;Aberto;Atrasado;76;
+LAB-00435;2026-10-31;2026-10-03;2026-10-12;;Atendimento Digital;Solicitacao;Alta;9;Aberto;Atrasado;19;
+LAB-00436;2026-10-31;2026-10-30;2026-11-02;2026-10-30;Atendimento Digital;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00437;2026-10-31;2026-10-04;2026-10-09;2026-10-13;Atendimento Digital;Duvida;Media;5;Concluido;Concluido fora do prazo;0;9
+LAB-00438;2026-10-31;2026-10-25;2026-10-30;2026-10-26;Validacao;Duvida;Media;5;Concluido;Concluido no prazo;0;1
+LAB-00439;2026-10-31;2026-10-31;2026-11-05;;Documentacao;Correcao;Media;5;Aberto;No prazo;0;
+LAB-00440;2026-10-31;2026-08-23;2026-08-28;2026-08-28;Suporte Especializado;Correcao;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00441;2026-10-31;2026-10-03;2026-10-08;;Atendimento Digital;Analise documental;Media;5;Aberto;Atrasado;23;
+LAB-00442;2026-10-31;2026-08-12;2026-08-15;2026-08-15;Atendimento Digital;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00443;2026-10-31;2026-09-12;2026-09-17;2026-09-16;Atendimento Digital;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00444;2026-10-31;2026-08-25;2026-08-30;2026-08-28;Atendimento Digital;Solicitacao;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00445;2026-10-31;2026-08-14;2026-08-19;2026-08-16;Atendimento Digital;Analise documental;Media;5;Concluido;Concluido no prazo;0;2
+LAB-00446;2026-10-31;2026-10-11;2026-10-16;;Documentacao;Duvida;Media;5;Aberto;Atrasado;15;
+LAB-00447;2026-10-31;2026-09-04;2026-09-13;2026-09-16;Atendimento Digital;Solicitacao;Alta;9;Concluido;Concluido fora do prazo;0;12
+LAB-00448;2026-10-31;2026-08-03;2026-08-12;2026-08-12;Atendimento Digital;Analise documental;Alta;9;Concluido;Concluido no prazo;0;9
+LAB-00449;2026-10-31;2026-08-10;2026-08-19;2026-08-15;Documentacao;Duvida;Alta;9;Concluido;Concluido no prazo;0;5
+LAB-00450;2026-10-31;2026-10-15;2026-10-18;2026-10-18;Suporte Especializado;Correcao;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00451;2026-10-31;2026-09-03;2026-09-12;2026-09-16;Validacao;Duvida;Alta;9;Concluido;Concluido fora do prazo;0;13
+LAB-00452;2026-10-31;2026-09-13;2026-09-22;2026-09-18;Atendimento Digital;Solicitacao;Alta;9;Concluido;Concluido no prazo;0;5
+LAB-00453;2026-10-31;2026-09-26;2026-09-29;2026-09-29;Suporte Especializado;Analise documental;Baixa;3;Concluido;Concluido no prazo;0;3
+LAB-00454;2026-10-31;2026-09-21;2026-09-30;2026-10-04;Atendimento Digital;Solicitacao;Alta;9;Concluido;Concluido fora do prazo;0;13
+LAB-00455;2026-10-31;2026-09-21;2026-09-26;2026-09-21;Suporte Especializado;Solicitacao;Media;5;Concluido;Concluido no prazo;0;0
+LAB-00456;2026-10-31;2026-10-05;2026-10-14;2026-10-19;Documentacao;Solicitacao;Alta;9;Concluido;Concluido fora do prazo;0;14
+LAB-00457;2026-10-31;2026-09-15;2026-09-20;2026-09-18;Suporte Especializado;Analise documental;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00458;2026-10-31;2026-10-21;2026-10-26;2026-10-21;Documentacao;Analise documental;Media;5;Concluido;Concluido no prazo;0;0
+LAB-00459;2026-10-31;2026-10-15;2026-10-20;2026-10-22;Validacao;Solicitacao;Media;5;Concluido;Concluido fora do prazo;0;7
+LAB-00460;2026-10-31;2026-10-14;2026-10-17;2026-10-16;Validacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00461;2026-10-31;2026-08-28;2026-08-31;2026-09-03;Validacao;Correcao;Baixa;3;Concluido;Concluido fora do prazo;0;6
+LAB-00462;2026-10-31;2026-08-08;2026-08-11;2026-08-10;Validacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;2
+LAB-00463;2026-10-31;2026-09-24;2026-09-29;2026-09-27;Atendimento Digital;Analise documental;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00464;2026-10-31;2026-10-24;2026-10-27;;Atendimento Digital;Correcao;Baixa;3;Aberto;Atrasado;4;
+LAB-00465;2026-10-31;2026-09-29;2026-10-08;2026-10-06;Operacoes Gerais;Solicitacao;Alta;9;Concluido;Concluido no prazo;0;7
+LAB-00466;2026-10-31;2026-10-04;2026-10-09;2026-10-05;Operacoes Gerais;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;1
+LAB-00467;2026-10-31;2026-08-07;2026-08-12;;Atendimento Digital;Analise documental;Media;5;Aberto;Atrasado;80;
+LAB-00468;2026-10-31;2026-09-27;2026-10-02;2026-10-02;Documentacao;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00469;2026-10-31;2026-10-11;2026-10-14;;Documentacao;Acompanhamento;Baixa;3;Aberto;Atrasado;17;
+LAB-00470;2026-10-31;2026-10-06;2026-10-15;2026-10-12;Operacoes Gerais;Duvida;Alta;9;Concluido;Concluido no prazo;0;6
+LAB-00471;2026-10-31;2026-10-13;2026-10-16;;Documentacao;Acompanhamento;Baixa;3;Aberto;Atrasado;15;
+LAB-00472;2026-10-31;2026-08-29;2026-09-01;2026-08-29;Validacao;Solicitacao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00473;2026-10-31;2026-09-20;2026-09-23;;Documentacao;Duvida;Baixa;3;Aberto;Atrasado;38;
+LAB-00474;2026-10-31;2026-10-19;2026-10-24;2026-10-23;Atendimento Digital;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00475;2026-10-31;2026-10-05;2026-10-10;2026-10-14;Atendimento Digital;Analise documental;Media;5;Concluido;Concluido fora do prazo;0;9
+LAB-00476;2026-10-31;2026-08-19;2026-08-28;2026-08-23;Suporte Especializado;Acompanhamento;Alta;9;Concluido;Concluido no prazo;0;4
+LAB-00477;2026-10-31;2026-10-31;2026-11-09;;Atendimento Digital;Correcao;Alta;9;Aberto;No prazo;0;
+LAB-00478;2026-10-31;2026-10-15;2026-10-18;;Operacoes Gerais;Correcao;Baixa;3;Aberto;Atrasado;13;
+LAB-00479;2026-10-31;2026-09-30;2026-10-03;;Atendimento Digital;Acompanhamento;Baixa;3;Aberto;Atrasado;28;
+LAB-00480;2026-10-31;2026-09-08;2026-09-11;2026-09-08;Atendimento Digital;Correcao;Baixa;3;Concluido;Concluido no prazo;0;0
+LAB-00481;2026-10-31;2026-10-25;2026-11-03;;Validacao;Duvida;Alta;9;Aberto;No prazo;0;
+LAB-00482;2026-10-31;2026-10-07;2026-10-12;;Documentacao;Solicitacao;Media;5;Aberto;Atrasado;19;
+LAB-00483;2026-10-31;2026-08-07;2026-08-10;2026-08-08;Suporte Especializado;Acompanhamento;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00484;2026-10-31;2026-10-26;2026-10-31;;Atendimento Digital;Duvida;Media;5;Aberto;Vence hoje;0;
+LAB-00485;2026-10-31;2026-10-17;2026-10-22;2026-10-23;Documentacao;Correcao;Media;5;Concluido;Concluido fora do prazo;0;6
+LAB-00486;2026-10-31;2026-09-12;2026-09-15;;Validacao;Analise documental;Baixa;3;Aberto;Atrasado;46;
+LAB-00487;2026-10-31;2026-10-04;2026-10-09;2026-10-08;Suporte Especializado;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;4
+LAB-00488;2026-10-31;2026-08-23;2026-08-26;;Validacao;Solicitacao;Baixa;3;Aberto;Atrasado;66;
+LAB-00489;2026-10-31;2026-09-21;2026-09-26;;Operacoes Gerais;Correcao;Media;5;Aberto;Atrasado;35;
+LAB-00490;2026-10-31;2026-09-13;2026-09-18;2026-09-16;Documentacao;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;3
+LAB-00491;2026-10-31;2026-08-15;2026-08-24;;Operacoes Gerais;Analise documental;Alta;9;Aberto;Atrasado;68;
+LAB-00492;2026-10-31;2026-09-23;2026-09-28;;Suporte Especializado;Solicitacao;Media;5;Aberto;Atrasado;33;
+LAB-00493;2026-10-31;2026-10-15;2026-10-18;;Documentacao;Correcao;Baixa;3;Aberto;Atrasado;13;
+LAB-00494;2026-10-31;2026-08-12;2026-08-17;;Operacoes Gerais;Duvida;Media;5;Aberto;Atrasado;75;
+LAB-00495;2026-10-31;2026-08-02;2026-08-07;;Documentacao;Solicitacao;Media;5;Aberto;Atrasado;85;
+LAB-00496;2026-10-31;2026-09-15;2026-09-24;2026-09-21;Atendimento Digital;Correcao;Alta;9;Concluido;Concluido no prazo;0;6
+LAB-00497;2026-10-31;2026-09-03;2026-09-06;;Atendimento Digital;Duvida;Baixa;3;Aberto;Atrasado;55;
+LAB-00498;2026-10-31;2026-10-09;2026-10-12;2026-10-10;Atendimento Digital;Duvida;Baixa;3;Concluido;Concluido no prazo;0;1
+LAB-00499;2026-10-31;2026-10-18;2026-10-23;2026-10-23;Documentacao;Acompanhamento;Media;5;Concluido;Concluido no prazo;0;5
+LAB-00500;2026-10-31;2026-09-06;2026-09-09;2026-09-11;Documentacao;Analise documental;Baixa;3;Concluido;Concluido fora do prazo;0;5
